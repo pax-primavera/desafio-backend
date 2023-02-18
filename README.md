@@ -7,8 +7,8 @@ Desenvolver uma API RESTful utilizando Java(Spring Boot) e Postgres.
 Na nossa empresa, surgiu a necessidade de gerenciar os cadastros dos nossos clientes, separados por filial.
 
 ## Requisitos
-- Uma filial teve pertencer a um estado
-- Um cliente teve pertencer a uma filial
+- Uma filial deve pertencer a um estado
+- Um cliente deve pertencer a uma filial
 - Um cadastro do cliente, precisa conter o plano contratado por ele
 - Um cadastro precisa ser único, não pode permitir duplicidade
 - Ao finalizar, criar um repositório no github e mandar o link para o email <suporte.ti@paxprimavera.com.br>
