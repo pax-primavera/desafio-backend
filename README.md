@@ -27,7 +27,7 @@ Na nossa empresa, surgiu a necessidade de gerenciar os cadastros dos nossos clie
             - 1, Dourados, 1 
             - 2, Caarapo, 1
             - 3, Juti, 1
-            - 3, Navirai, 1
+            - 4, Navirai, 1
 
 - Planos: (ID)Código Único, Descricao, Valor Mensalidade
   - Exemplo:
