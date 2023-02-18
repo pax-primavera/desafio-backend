@@ -43,7 +43,7 @@ Na nossa empresa, surgiu a necessidade de gerenciar os cadastros dos nossos clie
 
 Queremos endpoints para gerenciar os cadastros nas filiais.
 
-### API endpoints("Rotas")
+### API endpoints
 
 - Planos
 
