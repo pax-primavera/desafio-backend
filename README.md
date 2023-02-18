@@ -54,7 +54,6 @@ Codes 200
 Retorna todos os planos
 
 ```
-
 POST /planos
 Codes 201 / 400
 ```
@@ -131,7 +130,7 @@ Não se preocupe em terminar todo o teste. Procure finalizar cada requisito ante
 
 ## Entrega
 
-O candidato tem 1 semana para concluir o desafio, apartir do envio do teste.
+O candidato tem 1 semana para concluir o desafio, a partir do envio do teste.
 
 ## Dúvidas
 
