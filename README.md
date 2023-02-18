@@ -16,7 +16,6 @@ Na nossa empresa, surgiu a necessidade de gerenciar os cadastros dos nossos clie
 ### Modelos
 - Estados: (ID)Código Único, Nome, UF
     - Pode ser populado automaticamente
-
     - Exemplo: 
         - 1, MS 
         - 2, PR
@@ -24,7 +23,6 @@ Na nossa empresa, surgiu a necessidade de gerenciar os cadastros dos nossos clie
 
 - Cidades "Filial": (ID) Código Único, Nome
     - Pode ser populado automaticamente
-
         - Exemplo: 
             - 1, Dourados, 1 
             - 2, Caarapo, 1
@@ -32,7 +30,6 @@ Na nossa empresa, surgiu a necessidade de gerenciar os cadastros dos nossos clie
             - 3, Navirai, 1
 
 - Planos: (ID)Código Único, Descricao, Valor Mensalidade
-
   - Exemplo:
     - 1, Luxo, 80.00
     - 2, Super Luxo, 120.00
