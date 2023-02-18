@@ -1,6 +1,6 @@
 # Desafio Back-end
 
-Desenvolver uma API RESTful utilizando Java(Spring Boot) e Postgres.
+Desenvolver uma API RESTful utilizando Java(Spring Boot) e PostgreSQL.
 
 ## Cenário
 
