@@ -9,7 +9,7 @@ Na nossa empresa, surgiu a necessidade de gerenciar os cadastros dos nossos clie
 ## Requisitos
 - Uma filial deve pertencer a um estado
 - Um cliente deve pertencer a uma filial
-- Um cadastro do cliente, precisa conter o plano contratado por ele
+- Um cadastro do cliente, precisa conter o plano contratado
 - Um cadastro precisa ser único, não pode permitir duplicidade
 - Ao finalizar, criar um repositório no github e mandar o link para o email <suporte.ti@paxprimavera.com.br>
 
