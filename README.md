@@ -1,4 +1,4 @@
-# Desafio Desenvolvedor Web
+# Desafio Back-end
 
 Desenvolver uma API RESTful utilizando Java(Spring Boot) e Postgres.
 
@@ -41,7 +41,7 @@ Na nossa empresa, surgiu a necessidade de gerenciar os cadastros dos nossos clie
 
 ## Objetivo
 
-Queremos endpoints para gerenciar os contratos feitos pelas filiais.
+Queremos endpoints para gerenciar os cadastros nas filiais.
 
 ### API endpoints("Rotas")
 
