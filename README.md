@@ -1,4 +1,4 @@
-# Desafio Back-end
+# Desafio Desenvolvedor Web
 
 Desenvolver uma API RESTful utilizando Java(Spring Boot) e Postgres.
 
@@ -126,6 +126,7 @@ Não se preocupe em terminar todo o teste. Procure finalizar cada requisito ante
 
 - Docker
 - Testes unitários
+- Testes de integração;
 - Tratamento de erros
 
 ## Entrega
