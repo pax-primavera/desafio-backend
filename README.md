@@ -118,7 +118,7 @@ Não se preocupe em terminar todo o teste. Procure finalizar cada requisito ante
 - Estrutura do código
 - Lógica de progamação
 - Clean Code
-- Documentação(Exemplo: OpenApi Swagger)
+- Documentação(Swagger)
 - Modelagem do Bancos de Dados
 - Tratamento de dados
 
