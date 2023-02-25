@@ -123,7 +123,7 @@ Não se preocupe em terminar todo o teste. Procure finalizar cada requisito ante
 
 - Docker
 - Testes unitários
-- Testes de integração;
+- Testes de integração
 - Tratamento de erros
 
 ## Entrega
